@@ -7,15 +7,14 @@
 .bar {
 	padding: 10px;
 	text-align: center;
+
 }
-ul.data-ctrl {
-	list-style: outside none none;
-	margin: 0 auto;
-	max-width: 500px;
-	padding-left: 0;
+input.search {
+	border: 2px solid #1fa67a;
+	font-size: 16px;
+	height: 35px;
 	text-align: center;
-	text-decoration: none;
-}
+	width: 280px;
 input.search {
 	border: 2px solid #1fa67a;
 	font-size: 16px;
